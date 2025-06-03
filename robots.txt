@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amandoyoga.cl/sitemap.xml
